@@ -7,11 +7,11 @@
             "elements": [
                 {
                     "type": "rating",
-                    "name": "question1"
+                    "name": "page1_q1"
                 },
                 {
                     "type": "imagepicker",
-                    "name": "question3",
+                    "name": "page1_q2",
                     "choices": [
                         {
                             "value": "lion",
@@ -33,7 +33,7 @@
                 },
                 {
                     "type": "radiogroup",
-                    "name": "question2",
+                    "name": "page1_q3",
                     "choices": [
                         "item1",
                         "item2",
