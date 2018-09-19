@@ -7,7 +7,8 @@
             "elements": [
                 {
                     "type": "rating",
-                    "name": "page1_q1"
+                    "name": "page1_q1",
+                    "title": "Example Rating"
                 },
                 {
                     "type": "imagepicker",
