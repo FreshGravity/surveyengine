@@ -10,7 +10,7 @@
                 {
                     "type": "rating",
                     "name": "page1_q1",
-                    "title": "Rater"
+                    "title": "Example Rating"
                 },
                 {
                     "type": "imagepicker",
@@ -38,6 +38,7 @@
                 {
                     "type": "radiogroup",
                     "name": "page1_q3",
+
                     "title": "Sample Radio Group",
                     "choices": [
                         "item1",
