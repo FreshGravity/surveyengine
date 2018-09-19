@@ -1,6 +1,8 @@
 {
-    "id": "27c75a23-9830-4851-9acb-9c569f45b324",
-    "type": "questionset",
+    "id": "e184ee42-93ba-4d5b-9152-860c95e47043",
+    "niceId": "ltm9i8",
+    "name": "Demonstration Survey 1",
+    "description": "Sample survey for demonstrating the basics of Survey.JS and the Fresh Gravity shell web app",
     "pages": [
         {
             "name": "page1",
@@ -13,6 +15,7 @@
                 {
                     "type": "imagepicker",
                     "name": "page1_q2",
+                    "title": "Pick your favourite animal",
                     "choices": [
                         {
                             "value": "lion",
@@ -35,6 +38,8 @@
                 {
                     "type": "radiogroup",
                     "name": "page1_q3",
+
+                    "title": "Sample Radio Group",
                     "choices": [
                         "item1",
                         "item2",
