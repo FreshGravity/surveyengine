@@ -1,0 +1,51 @@
+{
+    "id": "e184ee42-93ba-4d5b-9152-860c95e47043",
+    "name": "Demonstration Survey 1",
+    "description": "Sample survey for demonstrating the basics of Survey.JS and the Fresh Gravity shell web app",
+    "pages": [
+        {
+            "name": "page1",
+            "elements": [
+                {
+                    "type": "rating",
+                    "name": "page1_q1",
+                    "title": "Example Rating"
+                },
+                {
+                    "type": "imagepicker",
+                    "name": "page1_q2",
+                    "title": "Pick your favourite animal",
+                    "choices": [
+                        {
+                            "value": "lion",
+                            "imageLink": "https://surveyjs.io/Content/Images/examples/image-picker/lion.jpg"
+                        },
+                        {
+                            "value": "giraffe",
+                            "imageLink": "https://surveyjs.io/Content/Images/examples/image-picker/giraffe.jpg"
+                        },
+                        {
+                            "value": "panda",
+                            "imageLink": "https://surveyjs.io/Content/Images/examples/image-picker/panda.jpg"
+                        },
+                        {
+                            "value": "camel",
+                            "imageLink": "https://surveyjs.io/Content/Images/examples/image-picker/camel.jpg"
+                        }
+                    ]
+                },
+                {
+                    "type": "radiogroup",
+                    "name": "page1_q3",
+
+                    "title": "Sample Radio Group",
+                    "choices": [
+                        "item1",
+                        "item2",
+                        "item3"
+                    ]
+                }
+            ]
+        }
+    ]
+}
